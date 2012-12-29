@@ -169,7 +169,7 @@ following to say on the subject:
   [guides](http://www.intelligentsiacoffee.com/brewing-guides), which do not
   include volumes, but are similar to those instructions offered in their app.
 * [Stumptown Coffee Roasters](http://stumptowncoffee.com) publishes the standard
-  guides as well including volumes
+  [guides](http://stumptowncoffee.com/brew-guides/) as well including volumes
 
 ### Delicious coffees
 
