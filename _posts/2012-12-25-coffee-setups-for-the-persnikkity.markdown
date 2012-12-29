@@ -120,7 +120,9 @@ makes an excellent post-extraction drip catcher to go with your ring stand,
 and a [beaker-mug](http://www.hometrainingtools.com/glass-beaker-mug-400-ml/p/CE-BMUG400/)
 completes the motif.
 
-Another pretty great tool for dialing in your process is [Intelligensia Coffee](http://www.intelligentsiacoffee.com/)'s
+### Process
+
+A great tool for dialing in your process is [Intelligensia Coffee](http://www.intelligentsiacoffee.com/)'s
 [iPhone App](https://itunes.apple.com/us/app/intelligentsia-coffee/id404497566?mt=8).
 I discovered it by scanning their random QRCode at a store carrying them but am
 very glad I did.  The app itself has information about their coffees,
@@ -133,6 +135,47 @@ experimentation was key.  I highly recommend using this app, or another timer,
 in order to dial in the process at some point.  The brewing instructions in the
 application also provide details on water weight/volume as appropriate by
 brewing technique, which is perfect if you are even more persnikkity than I am.
+
+The detail-oriented of you in the crowd will ask extremely important questions
+such as "how hot should my water be" and "how much water should I use".  The
+particularly astute reader will ask "can I weigh my water?  Can I account for
+the water absorbed by the grounds?"  The answer is yes.  I am actually not that
+detail oriented.  I've read it repeated enough that I believe it to be true that
+boiling water, after being transferred to my kettle and sitting a few seconds,
+has cooled enough that it will not steal my precious volatile compounds that
+make coffee so amazing.  As to volume, yes I have a "flask mug", as listed
+above" and 275-300ml is kinda the sweet spot for me (to 25g of coffee) but this
+is _very_ unscientific.
+
+An extremely good coffee-dork [friend of mine](http://chadblack.net/) has the
+following to say on the subject:
+
+> "I know within a gram or so how much my grinder puts out, and so I use the same
+> amount of water every time now. ... I can't remember, but I think I'm at like
+> 21-22g of coffee, and 11.5 ounces of water.  So, I put the rig on the scale, and
+> tare it before pouring in the water. 1.5 ounces first, to bloom it a bit, and
+> then slowly build up to 11.5 ounces after.  But, if I'm low on beans on the last
+> grind of a bag, I'll measure the grounds in grams and adjust the water
+> accordingly.  I haven't tweaked it much after the initial tests. I don't mess
+> with the grind really either."
+
+#### Brewing Guides
+
+* [Counter Culture](http://counterculturecoffee.com/) publishes a number of
+  [guides](http://counterculturecoffee.com/education/brewing-guide) including
+  one for [pour-over](http://counterculturecoffee.com/docs/brewing-guide/CCC_Manual_Drip_Brew_Program.pdf)
+  which includes volumes
+* [Intelligensia Coffee](http://www.intelligentsiacoffee.com/) publishes a number of
+  [guides](http://www.intelligentsiacoffee.com/brewing-guides), which do not
+  include volumes, but are similar to those instructions offered in their app.
+* [Stumptown Coffee Roasters](http://stumptowncoffee.com) publishes the standard
+  guides as well including volumes
+
+### Delicious coffees
+
+There are so many great roasters now days take your pick.  Find someone local
+who really cares and does a great job.  I like coffee from lots of folks so take
+your pick!!
 
 ## Espresso
 
