@@ -120,6 +120,20 @@ makes an excellent post-extraction drip catcher to go with your ring stand,
 and a [beaker-mug](http://www.hometrainingtools.com/glass-beaker-mug-400-ml/p/CE-BMUG400/)
 completes the motif.
 
+Another pretty great tool for dialing in your process is [Intelligensia Coffee](http://www.intelligentsiacoffee.com/)'s
+[iPhone App](https://itunes.apple.com/us/app/intelligentsia-coffee/id404497566?mt=8).
+I discovered it by scanning their random QRCode at a store carrying them but am
+very glad I did.  The app itself has information about their coffees,
+instructions on various brewing techniques, and includes a timer for many
+preparation styles, with various timed steps along the way.  For example, the
+pour-over timer provides for a 45-second bloom followed by two minutes of brew
+time.  By strictly following the times in the app I was able to adjust my grind
+and my pour-over technique to make it very consistent.  From there,
+experimentation was key.  I highly recommend using this app, or another timer,
+in order to dial in the process at some point.  The brewing instructions in the
+application also provide details on water weight/volume as appropriate by
+brewing technique, which is perfect if you are even more persnikkity than I am.
+
 ## Espresso
 
 Firstly, I do not recommend someone who really cares about coffee get an
