@@ -95,6 +95,10 @@ img {
   max-width:100%;
 }
 
+img.header {
+  float: right;
+}
+
 header {
   width:270px;
   float:left;
