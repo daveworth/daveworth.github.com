@@ -202,6 +202,11 @@ you've opted for the Rancilio Silvia above then you may also really dig the
 [Rancilio Rocky](http://www.wholelattelove.com/Rancilio/rockyracilio.cfm)
 grinder which is its matching sister.
 
+## Other awesome setups
+
+* Use This has a [couple of awesome](http://usesthis.com/interviews/coffee/)
+  setups documented.
+
 What gear am I missing?!  I'm sure there's tons and would love your insight!
 
 Image credit: [ultrakml](http://www.flickr.com/photos/ultrakml/7660210834/)
