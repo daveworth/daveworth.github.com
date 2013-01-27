@@ -2,8 +2,8 @@
 layout: post
 title: 'Using mDNS for hybrid web and native iOS app development'
 author: Dave
-published: false
-image_hint_url: http://full/path/to/image/for/hinting/social/media/scrapers.png
+published: true
+image_hint_url: http://farm4.staticflickr.com/3182/2641452698_d7d6eee15e_m.jpg
 description: 'Description for social media'
 tags:
 - Ruby On Rails
@@ -33,13 +33,11 @@ environments.  For example, if you were running a local rails application that
 you would like to hit from the simulator, but on release you'd like to hit the
 actual production website you could do something like the following.
 
-```Objective-C
-#ifdef DEBUG
-#  define kURL @"http://localhost:10001"
-#else
-#  define kURL @"http://somecoolrailsapp.com"
-#endif
-```
+    #ifdef DEBUG
+    #  define kURL @"http://localhost:10001"
+    #else
+    #  define kURL @"http://somecoolrailsapp.com"
+    #endif
 
 The above works great if you are only testing using the simulator, but what if
 you have to test your native app with some officially licensed iPhone, iPod
@@ -112,15 +110,11 @@ and describe to your future self that the `-p <PORT>` flag to Foreman no longer
 does what is expected, and note the existence of, and importance of the
 `dotenv.sample` file.
 
-```Objective-C
-#ifdef DEBUG
-#  define kURL @"http://myapp.local:10001"
-#else
-#  define kURL @"http://somecoolrailsapp.com"
-#endif
-```
-
-https://developer.apple.com/library/mac/#documentation/Darwin/Reference/Manpages/man1/dns-sd.1.html
+    #ifdef DEBUG
+    #  define kURL @"http://myapp.local:10001"
+    #else
+    #  define kURL @"http://somecoolrailsapp.com"
+    #endif
 
 This has actually been unexpectedly handy in that our designer is now able to do
 responsive design testing on her actual physical devices by hitting the mDNS URL
