@@ -10,3 +10,4 @@ layout: default
 * [Highgroove Tech Talk on Decorators](http://daveworth.github.io/5-25-2012-Highgroove-Tech-Talk---Decorators/) :  5.25.2012 ([video](http://vimeo.com/42860016))
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.12
 * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582)
+* [Cryptographic One-Time Knocking](http://www.blackhat.com/presentations/bh-usa-04/bh-us-04-worth-up.pdf) : for Blackhat Vegas '04
