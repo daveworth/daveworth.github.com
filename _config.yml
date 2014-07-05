@@ -1,2 +1,5 @@
 source: .
 destination: ./_site
+name: Dave Worth's STDOUT
+description: the landing place of my various presentations, papers, and occasional blog posts
+url: http://daveworth.github.io/
