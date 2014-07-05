@@ -11,7 +11,7 @@ tags:
 - Process
 ---
 <a href="https://www.flickr.com/photos/twenty4at/14523520052/in/set-72157645114467681" title="">
-  <img src="https://farm4.staticflickr.com/3918/14523520052_dfd7f3618a_b.jpg" width="320" height="213" alt="" align="right">
+  <img src="https://farm4.staticflickr.com/3918/14523520052_dfd7f3618a_b.jpg" width="320" height="213" alt="" class="header">
 </a>
 
 Congrats on your launch.  Your product is awesome.  Everyone wants to use it but

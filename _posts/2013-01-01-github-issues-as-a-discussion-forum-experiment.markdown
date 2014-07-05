@@ -12,7 +12,7 @@ tags:
 ---
 
 <a href="http://octodex.github.com/octocat-de-los-muertos/">
-  <img class="header" src="http://octodex.github.com/images/octocat-de-los-muertos.jpg" alt="the Octocat De Los Muertos" width="300">
+  <img src="http://octodex.github.com/images/octocat-de-los-muertos.jpg" alt="the Octocat De Los Muertos" width="300" class="header">
 </a>
 
 After posting my [first](/2012/12/25/coffee-setups-for-the-persnikkity.html)
