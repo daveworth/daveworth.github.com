@@ -11,7 +11,7 @@ tags:
 - Awesome
 ---
 <a href="http://www.flickr.com/photos/ultrakml/7660210834/" title="Sidamo pourover coffee at Market Lane Coffee in Prahran by ultrakml, on Flickr">
-  <img src="http://farm9.staticflickr.com/8285/7660210834_d52a35af56_m.jpg" width="179" height="240" alt="Sidamo pourover coffee at Market Lane Coffee in Prahran" align="right">
+  <img class="header" src="http://farm9.staticflickr.com/8285/7660210834_d52a35af56_m.jpg" width="179" height="240" alt="Sidamo pourover coffee at Market Lane Coffee in Prahran">
 </a>
 
 
