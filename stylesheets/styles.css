@@ -97,7 +97,8 @@ img {
 
 img.header {
   float: right;
-  padding-top: 25px;
+  margin-top: 25px;
+  border-radius: 4px;
 }
 
 header {
