@@ -11,8 +11,8 @@ tags:
 - Process
 ---
 
-<a href="http://i.imgur.com/KW5CoKd.jpg" title="Fix ... The Bug!">
-  <img src="http://i.imgur.com/KW5CoKd.jpg" width="200" height="200" alt="Fix ... The Bug!" class="header">
+<a href="http://i.imgur.com/c08VstC.jpg" title="Dear Developer... Fix. The. Bug!!">
+  <img src="http://i.imgur.com/c08VstC.jpg" width="200" height="200" alt="Dear Developer... Fix. The. Bug!!" class="header">
 </a>
 
 I have worked with a number of QA teams, usually internal teams in product
