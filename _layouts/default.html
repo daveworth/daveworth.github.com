@@ -3,8 +3,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -19,12 +19,7 @@
         <p>the landing place of my various presentations, papers, and occasional
         blog posts</p>
 
-        <p class="view">
-          <a href="https://github.com/daveworth">
-            <i class="fa fa-share-alt-square"></i>
-            View My GitHub Profile
-          </a>
-        </p>
+        {% include github_profile_link.html %}
 
       </header>
       <section>
@@ -40,14 +35,8 @@
         </ul>
       </section>
       <footer>
-        <p class="view">
-          <a href="http://daveworth.github.io/feed.xml">
-            <i class="fa fa-rss-square"></i>
-            RSS Feed
-          </a>
-        </p>
-
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% include rss_link.html %}
+        {% include theme_info.html %}
       </footer>
     </div>
     <script src="/javascripts/scale.fix.js"></script>
