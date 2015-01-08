@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-* [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/)
+* [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/) : 01:08:2015
 * [Big Nerd Ranch Tech Talk on BDDing Your Infrastructure with Vagabond](http://daveworth.github.io/8_30_2013_BDD_Your_Infrastructure_with_Vagabond/#slide-0) : 08.30.2013 ([Video](http://vimeo.com/74387133))
-* [Wide Teams #68](http://www.wideteams.com/2013/01/30/episode-68-david-worth-of-big-nerd-ranch/) 01.30.13
+* [Wide Teams #68](http://www.wideteams.com/2013/01/30/episode-68-david-worth-of-big-nerd-ranch/) : 01.30.13
 * [Creating View-Centric Interfaces with the Decorator Pattern](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) 01.18.13
 * [Leveraging Convention over Configuration for Static Analysis in Dynamic Languages](http://ensiwiki.ensimag.fr/images/7/70/GreHack-2012-talk-David_Worth_and_Justin_Collins-Leveraging_Convention_over_Configuration_for_Static_Analysis_in_Dynamic_Languages.pdf) ([Paper](http://ensiwiki.ensimag.fr/images/c/c5/GreHack-2012-Leveraging_Convention_over_Configuration_for_Static_Analysis_in_Dynamic_Languages.pdf) : [Video](http://www.youtube.com/watch?feature=player_embedded&v=tHUxZbNktxg)) : for [GreHack](http://grehack.org/en/)
 * [Decorators as Interfaces](http://daveworth.github.io/ArrrrCamp_2012-DecoratorsAsInterfaces) : [ArrrrCamp'12](http://2012.arrrrcamp.be/) Lightening Talk ([Video](http://vimeo.com/groups/arrrrcamp/videos/51898787) @ 18:15ish)
