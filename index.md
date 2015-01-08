@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/)
 * [Big Nerd Ranch Tech Talk on BDDing Your Infrastructure with Vagabond](http://daveworth.github.io/8_30_2013_BDD_Your_Infrastructure_with_Vagabond/#slide-0) : 08.30.2013 ([Video](http://vimeo.com/74387133))
 * [Wide Teams #68](http://www.wideteams.com/2013/01/30/episode-68-david-worth-of-big-nerd-ranch/) 01.30.13
 * [Creating View-Centric Interfaces with the Decorator Pattern](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) 01.18.13
