@@ -19,5 +19,5 @@ layout: default
 * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012
 * [Using Rails localization outside of your views](http://blog.bignerdranch.com/1577-using-rails-localization-outside-of-your-views/) : 12.21.2011
 * [Construction of Geometric Outer-Measures and Dimension Theory](http://www.math.unm.edu/~loring/graduate_students/DaveWorthThesis.pdf) : Masters Thesis
-* [Multiresolution metrics for detecting single-trial evoked response potentials (ERPS)](http://www.unm.edu/~atlab/papers/conf/loring_hk0052.pdf) (Also via IEEE Explore if you like subscriptions: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1384583&searchWithin%3Dp_Authors%3A.QT.Worth%2C+D.E..QT.%26searchWithin%3Dp_Author_Ids%3A37943267400) : Undergraduate Research Contribution
+* [Multiresolution metrics for detecting single-trial evoked response potentials (ERPS)](http://www.unm.edu/~atlab/papers/conf/loring_hk0052.pdf) (Also via IEEEExplore [if you like subscriptions](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1384583&searchWithin%3Dp_Authors%3A.QT.Worth%2C+D.E..QT.%26searchWithin%3Dp_Author_Ids%3A37943267400)) : Undergraduate Research Contribution
 * [Cryptographic One-Time Knocking](http://www.blackhat.com/presentations/bh-usa-04/bh-us-04-worth-up.pdf) : for Blackhat Vegas '04
