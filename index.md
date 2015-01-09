@@ -10,12 +10,12 @@ layout: default
 * [Static Analysis of Ruby and Security Scanning of Rails Apps with Brakeman](http://daveworth.github.io/RubyHoedown_2012-StaticAnalysisAndSecurityAnalysisWithBrakeman) : for [RubyHoedown 2012](http://rubyhoedown.com/) ([ArrrrCamp'12](http://2012.arrrrcamp.be/) Edition: [Video](http://vimeo.com/groups/arrrrcamp/videos/51635385) : [Slides](http://daveworth.github.com/ArrrrCamp_2012-StaticAnalysisAndSecurityAnalysisWithBrakeman/))
 * [Static Analysis of Ruby](http://daveworth.github.io/ATLRUG_07_2012-StaticAnalysisRuby/) : for ATLRUG 09.2012
 * [Highgroove Tech Talk on Decorators](http://daveworth.github.io/5-25-2012-Highgroove-Tech-Talk---Decorators/) :  5.25.2012 ([Video](http://vimeo.com/42860016))
-* [Reaching out to the community in pursuit of “Responsible Disclosure”](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) 07.27.2012
-* [Evolving a Security Auditing Methodology](http://blog.bignerdranch.com/1641-evolving-a-security-auditing-methodology/) 06.11.2012
+* [Reaching out to the community in pursuit of “Responsible Disclosure”](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) : 07.27.2012
+* [Evolving a Security Auditing Methodology](http://blog.bignerdranch.com/1641-evolving-a-security-auditing-methodology/) : 06.11.2012
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.2012
-* [Cast aside that debugger and use your test-suite](http://blog.bignerdranch.com/1618-cast-aside-that-debugger-and-use-your-test-suite/) 04.10.2012
-* [Our Open-Source Methodology at Highgroove](http://blog.bignerdranch.com/1602-our-open-source-methodology-at-highgroove/) 02.23.2012
-* [Red, Green, Refactor – The Tools For Success](http://blog.bignerdranch.com/1593-red-green-refactor-the-tools-for-success/) 02.07.2012
+* [Cast aside that debugger and use your test-suite](http://blog.bignerdranch.com/1618-cast-aside-that-debugger-and-use-your-test-suite/) : 04.10.2012
+* [Our Open-Source Methodology at Highgroove](http://blog.bignerdranch.com/1602-our-open-source-methodology-at-highgroove/) : 02.23.2012
+* [Red, Green, Refactor – The Tools For Success](http://blog.bignerdranch.com/1593-red-green-refactor-the-tools-for-success/) : 02.07.2012
 * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012
 * [Using Rails localization outside of your views](http://blog.bignerdranch.com/1577-using-rails-localization-outside-of-your-views/) : 12.21.2011
 * [Construction of Geometric Outer-Measures and Dimension Theory](http://www.math.unm.edu/~loring/graduate_students/DaveWorthThesis.pdf) : Masters Thesis
