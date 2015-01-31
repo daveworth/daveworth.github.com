@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [What even is a MVP](http://www.slideshare.net/david_e_worth/what-even-is-a-mvp-for-bowtie-springboard) : for BowTie.io's Springboard Launch-a-thon  01.31.15
 * [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/) :  01.08.2015
 * [Big Nerd Ranch Tech Talk on BDDing Your Infrastructure with Vagabond](http://daveworth.github.io/8_30_2013_BDD_Your_Infrastructure_with_Vagabond/#slide-0) :  08.30.2013 ([Video](http://vimeo.com/74387133))
 * [Wide Teams #68](http://www.wideteams.com/2013/01/30/episode-68-david-worth-of-big-nerd-ranch/) :  01.30.2013
