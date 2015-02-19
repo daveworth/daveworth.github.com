@@ -32,35 +32,35 @@ Complex Analysis!
 Moreover, I am linking to publisher sites rather than big vendors.  You are
 fully capable of finding sellers.
 
-* [Linear Algebra Done Right](http://linear.axler.net/) by Sheldon Axler.  This
+* _[Linear Algebra Done Right](http://linear.axler.net/)_ by Sheldon Axler. This
   book basically punts on determinants and instead talks about the properties of
   operators!
-* [Finite Dimensional Vector Spaces](http://www.springer.com/mathematics/algebra/book/978-0-387-90093-3)
+* _[Finite Dimensional Vector Spaces](http://www.springer.com/mathematics/algebra/book/978-0-387-90093-3)_
   by Paul Halmos.  Some of the clearest and most elegant prose giving intuition to linear algebra I have ever read.
-* [A First Course in Wavelets with Fourier Analysis](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470431172.html)
+* _[A First Course in Wavelets with Fourier Analysis](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470431172.html)_
   by Albert Boggess and Francis J. Narcowich.  A great and comprehensible
   introduction to Fourier Analysis leading into a gentle building of wavelet
   theory.
-* [Fourier Analysis](http://press.princeton.edu/titles/7562.html) -
+* _[Fourier Analysis](http://press.princeton.edu/titles/7562.html)_ -
   An Introduction by Elias M. Stein &amp; Rami Shakarachi.  For focussed
   and gentle discussion of Fourier Analysis I have never found a clearer
   explanation than this book.
-* [Measure and Integration Theory](http://www.degruyter.com/view/product/174435)
+* _[Measure and Integration Theory](http://www.degruyter.com/view/product/174435)_
   by Heinz Bauer.  Measure theory is pretty dry but so critical.  Bauer's
   exposition is concise, to the point, and builds the theory from foundations in
   such a way as to never leave difficult gaps.
-* [Beginning Functional Analysis](http://www.springer.com/mathematics/analysis/book/978-0-387-95224-6)
+* _[Beginning Functional Analysis](http://www.springer.com/mathematics/analysis/book/978-0-387-95224-6)_
   by Karen Saxe.  So many Functional Analysis books are built in exactly the
   same way around linear algebra and functionals and duals but Saxe gets you
   there with extreme grace.
 
-* [Ideals, Varieties, and Algorithms](http://www.springer.com/mathematics/algebra/book/978-0-387-35650-1) -
+* _[Ideals, Varieties, and Algorithms](http://www.springer.com/mathematics/algebra/book/978-0-387-35650-1)_ -
   An Introduction to Computational Algebraic Geometry and Commutative Algebra
   by David Cox, John Little, and Donal O'Shea.  I am not an algebraist by any
   stretch of the imagination but this book is such a nice introduction to
   commutative algebra that everyone should read and play with it at least once.
 
-* [Weighing the Odds](http://www.cambridge.org/us/academic/subjects/statistics-probability/statistical-theory-and-methods/weighing-odds-course-probability-and-statistics) -
+* _[Weighing the Odds](http://www.cambridge.org/us/academic/subjects/statistics-probability/statistical-theory-and-methods/weighing-odds-course-probability-and-statistics)_ -
   A course in Probability and Statistics by David Williams.  A course in
   probability that does not simply jump into Expectation and Distributions but
   instead wants to lend intuition to the process.
