@@ -3,12 +3,16 @@ layout: post
 title: 'Math Books for the Persnikkity'
 author: Dave
 published: true
+image_hint_url: https://farm1.staticflickr.com/148/438145938_c732611c46_m.jpg
 description: 'My strong opinions on what math books should be in your library'
 categories:
 - Mathematics
 tags:
 - Mathematics
 ---
+<a href="https://www.flickr.com/photos/lost_archetype/438145938" title="Love &amp; Mathematics by Fred Hasselman, on Flickr">
+  <img src="https://farm1.staticflickr.com/148/438145938_c732611c46_m.jpg" width="240" height="182" alt="Love &amp; Mathematics">
+</a>
 
 I am lucky enough to work with a math-enthusiastic bunch of folks.  We often
 talk about great papers and books for the student of Math.  Here's my list of my
