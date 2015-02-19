@@ -53,6 +53,9 @@ fully capable of finding sellers.
   by Karen Saxe.  So many Functional Analysis books are built in exactly the
   same way around linear algebra and functionals and duals but Saxe gets you
   there with extreme grace.
+* _[Measure, Topology, and Fractal Geometry](http://www.springer.com/mathematics/geometry/book/978-0-387-74748-4)_
+  by Gerald Edgar.  This is a rare-ish book that provides a very gentle
+  introduction to Geometric Measure Theory.
 
 * _[Ideals, Varieties, and Algorithms](http://www.springer.com/mathematics/algebra/book/978-0-387-35650-1)_ -
   An Introduction to Computational Algebraic Geometry and Commutative Algebra
@@ -64,3 +67,9 @@ fully capable of finding sellers.
   A course in Probability and Statistics by David Williams.  A course in
   probability that does not simply jump into Expectation and Distributions but
   instead wants to lend intuition to the process.
+
+* _[A Course in Machine Learning](http://ciml.info)_ by Hal Daume III.  This
+  book, while incomplete, and I have not finished working through it, provides a
+  great, intuitive, introduction to Machine Learning without a need for a strong
+  probability background.  Intuitive descriptions and gentle prose make for a
+  fun read.
