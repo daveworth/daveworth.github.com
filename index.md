@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [From zero to (almost) Ruby on Rails in about a million slides](http://www.slideshare.net/david_e_worth/from-zero-to-almost-rails-in-about-a-million-slides) : for a "local" Ruby study group : 02.17.2015
 * [What even is a MVP?](https://bowtie.io/beta/blog/what-is-a-mvp.html) : for BowTie.io's Springboard Launch-a-thon  01.31.15 ([Slides](http://www.slideshare.net/david_e_worth/what-even-is-a-mvp-for-bowtie-springboard))
 * [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/) :  01.08.2015
 * [Big Nerd Ranch Tech Talk on BDDing Your Infrastructure with Vagabond](http://daveworth.github.io/8_30_2013_BDD_Your_Infrastructure_with_Vagabond/#slide-0) :  08.30.2013 ([Video](http://vimeo.com/74387133))
