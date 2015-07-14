@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [Scaling on DigitalOcean](http://www.slideshare.net/david_e_worth/scaling-on-digitalocean) : for the Albuquerque WordPress Meetup : 06.17.2015
 * [From zero to (almost) Ruby on Rails in about a million slides](http://www.slideshare.net/david_e_worth/from-zero-to-almost-rails-in-about-a-million-slides) : for a "local" Ruby study group : 02.17.2015
 * [What even is a MVP?](https://bowtie.io/beta/blog/what-is-a-mvp.html) : for [BowTie.io](https://bowtie.io)'s [Springboard](https://springboard.bowtied.io/) Launch-a-thon  01.31.2015 ([Slides](http://www.slideshare.net/david_e_worth/what-even-is-a-mvp-for-bowtie-springboard))
 * [Automating App Deployments with User-Data](https://www.digitalocean.com/company/blog/automating-application-deployments-with-user-data/) :  01.08.2015
