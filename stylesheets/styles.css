@@ -95,6 +95,10 @@ img {
   max-width:100%;
 }
 
+header img.headshot {
+  border-radius: 10px;
+}
+
 img.header {
   float: right;
   margin-top: 25px;
