@@ -2,7 +2,7 @@
 layout: default
 ---
 * [Droplet Tagging: Organize Your Infrastructure](https://www.digitalocean.com/company/blog/droplet-tagging-organize-your-infrastructure/) : 10.26.2016
-* [Integration Testing for Polyglot Ecosystems](http://www.slideshare.net/DavidWorth5/integration-testing-for-polyglot-ecosystems) : for Berlin Meetup Kickoff- DigitalOcean @Factory Berlin : 04:19:2016 ([Video](https://www.youtube.com/watch?v=0I2bJpXlYSw))
+* [Integration Testing for Polyglot Ecosystems](http://www.slideshare.net/DavidWorth5/integration-testing-for-polyglot-ecosystems) : for Berlin Meetup Kickoff- DigitalOcean @Factory Berlin : 04:19:2016 ([Video](https://www.youtube.com/watch?v=0I2bJpXlYSw#t=02m22s))
 * [Scaling on DigitalOcean](http://www.slideshare.net/david_e_worth/scaling-on-digitalocean) : for the Albuquerque WordPress Meetup : 06.17.2015
 * [From zero to (almost) Ruby on Rails in about a million slides](http://www.slideshare.net/david_e_worth/from-zero-to-almost-rails-in-about-a-million-slides) : for a "local" Ruby study group : 02.17.2015
 * [What even is a MVP?](https://bowtie.io/beta/blog/what-is-a-mvp.html) : for [BowTie.io](https://bowtie.io)'s [Springboard](https://springboard.bowtied.io/) Launch-a-thon  01.31.2015 ([Slides](http://www.slideshare.net/david_e_worth/what-even-is-a-mvp-for-bowtie-springboard))
