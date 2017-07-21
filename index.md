@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [Distributed Tracing Meets Kanye](https://soundcloud.com/digitaloceanpodcast/distributed-tracing-meets-kanye) : a great chat about operating software with Iheanyi Ekechukwu for DigitalOcean's Deep End Podcast : 07:19:2017
 * [Droplet Tagging: Organize Your Infrastructure](https://www.digitalocean.com/company/blog/droplet-tagging-organize-your-infrastructure/) : 10.26.2016
 * [Integration Testing for Polyglot Ecosystems](http://www.slideshare.net/DavidWorth5/integration-testing-for-polyglot-ecosystems) : for Berlin Meetup Kickoff- DigitalOcean @Factory Berlin : 04:19:2016 ([Video](https://www.youtube.com/watch?v=0I2bJpXlYSw#t=02m22s))
 * [Scaling on DigitalOcean](http://www.slideshare.net/david_e_worth/scaling-on-digitalocean) : for the Albuquerque WordPress Meetup : 06.17.2015
