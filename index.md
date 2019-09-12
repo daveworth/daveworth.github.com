@@ -5,6 +5,7 @@ layout: default
 * [Distributed Tracing Meets Kanye](https://soundcloud.com/digitaloceanpodcast/distributed-tracing-meets-kanye) : a great chat about operating software with Iheanyi Ekechukwu for DigitalOcean's Deep End Podcast : 07:19:2017
 * [Droplet Tagging: Organize Your Infrastructure](https://www.digitalocean.com/company/blog/droplet-tagging-organize-your-infrastructure/) : 10.26.2016
 * [Integration Testing for Polyglot Ecosystems](http://www.slideshare.net/DavidWorth5/integration-testing-for-polyglot-ecosystems) : for Berlin Meetup Kickoff- DigitalOcean @Factory Berlin : 04:19:2016 ([Video](https://www.youtube.com/watch?v=0I2bJpXlYSw#t=02m22s))
+* [How Not to Take Money](http://www.slideshare.net/david_e_worth/how-not-to-take-money) : for the ABQ Web Geeks meetup: 10.7.2015
 * [Scaling on DigitalOcean](http://www.slideshare.net/david_e_worth/scaling-on-digitalocean) : for the Albuquerque WordPress Meetup : 06.17.2015
 * [From zero to (almost) Ruby on Rails in about a million slides](http://www.slideshare.net/david_e_worth/from-zero-to-almost-rails-in-about-a-million-slides) : for a "local" Ruby study group : 02.17.2015
 * [What even is a MVP?](https://bowtie.io/beta/blog/what-is-a-mvp.html) : for [BowTie.io](https://bowtie.io)'s [Springboard](https://springboard.bowtied.io/) Launch-a-thon  01.31.2015 ([Slides](http://www.slideshare.net/david_e_worth/what-even-is-a-mvp-for-bowtie-springboard))
