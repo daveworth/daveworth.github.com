@@ -23,7 +23,7 @@ layout: default
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.2012
 * [Cast aside that debugger and use your test-suite](http://blog.bignerdranch.com/1618-cast-aside-that-debugger-and-use-your-test-suite/) : 04.10.2012
 * [Our Open-Source Methodology at Highgroove](http://blog.bignerdranch.com/1602-our-open-source-methodology-at-highgroove/) : 02.23.2012
-* [Red, Green, Refactor – The Tools For Success](http://blog.bignerdranch.com/1593-red-green-refactor-the-tools-for-success/) : 02.07.2012
+* [Red, Green, Refactor – The Tools For Success](https://www.bignerdranch.com/blog/red-green-refactor-the-tools-for-success/) : 02.07.2012
 <!-- * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012 -->
 * [Using Rails localization outside of your views](https://www.bignerdranch.com/blog/using-rails-localization-outside-of-your-views/) : 12.21.2011
 * [Construction of Geometric Outer-Measures and Dimension Theory](/assets/DaveWorthThesis.pdf) : Masters Thesis
