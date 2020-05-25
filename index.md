@@ -21,7 +21,7 @@ layout: default
 * [Reaching out to the community in pursuit of “Responsible Disclosure”](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) : 07.27.2012
 * [Evolving a Security Auditing Methodology](http://blog.bignerdranch.com/1641-evolving-a-security-auditing-methodology/) : 06.11.2012
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.2012
-* [Cast aside that debugger and use your test-suite](http://blog.bignerdranch.com/1618-cast-aside-that-debugger-and-use-your-test-suite/) : 04.10.2012
+* [Cast aside that debugger and use your test-suite](https://www.bignerdranch.com/blog/cast-aside-that-debugger-and-use-your-test-suite/) : 04.09.2012
 * [Our Open-Source Methodology at Highgroove](https://www.bignerdranch.com/blog/our-open-source-methodology-at-highgroove/) : 02.22.2012
 * [Red, Green, Refactor – The Tools For Success](https://www.bignerdranch.com/blog/red-green-refactor-the-tools-for-success/) : 02.06.2012
 <!-- * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012 -->
