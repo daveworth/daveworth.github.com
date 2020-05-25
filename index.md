@@ -23,9 +23,9 @@ layout: default
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.2012
 * [Cast aside that debugger and use your test-suite](http://blog.bignerdranch.com/1618-cast-aside-that-debugger-and-use-your-test-suite/) : 04.10.2012
 * [Our Open-Source Methodology at Highgroove](https://www.bignerdranch.com/blog/our-open-source-methodology-at-highgroove/) : 02.22.2012
-* [Red, Green, Refactor – The Tools For Success](https://www.bignerdranch.com/blog/red-green-refactor-the-tools-for-success/) : 02.07.2012
+* [Red, Green, Refactor – The Tools For Success](https://www.bignerdranch.com/blog/red-green-refactor-the-tools-for-success/) : 02.06.2012
 <!-- * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012 -->
-* [Using Rails localization outside of your views](https://www.bignerdranch.com/blog/using-rails-localization-outside-of-your-views/) : 12.21.2011
+* [Using Rails localization outside of your views](https://www.bignerdranch.com/blog/using-rails-localization-outside-of-your-views/) : 12.20.2011
 * [Construction of Geometric Outer-Measures and Dimension Theory](/assets/DaveWorthThesis.pdf) : Masters Thesis
 * [Multiresolution metrics for detecting single-trial evoked response potentials (ERPS)](https://ieeexplore.ieee.org/document/1384583) (via IEEEExplore) : Undergraduate Research Contribution
 * [Cryptographic One-Time Knocking](/assets/bh-us-04-worth-up.pdf) : for Blackhat Vegas '04
