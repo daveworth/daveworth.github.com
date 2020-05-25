@@ -25,7 +25,7 @@ layout: default
 * [Our Open-Source Methodology at Highgroove](http://blog.bignerdranch.com/1602-our-open-source-methodology-at-highgroove/) : 02.23.2012
 * [Red, Green, Refactor – The Tools For Success](http://blog.bignerdranch.com/1593-red-green-refactor-the-tools-for-success/) : 02.07.2012
 * [Highgroove Tech Talk on Brakeman](http://vimeo.com/35766582) : 01.2012
-* [Using Rails localization outside of your views](http://blog.bignerdranch.com/1577-using-rails-localization-outside-of-your-views/) : 12.21.2011
+* [Using Rails localization outside of your views](https://www.bignerdranch.com/blog/using-rails-localization-outside-of-your-views/) : 12.21.2011
 * [Construction of Geometric Outer-Measures and Dimension Theory](/assets/DaveWorthThesis.pdf) : Masters Thesis
 * [Multiresolution metrics for detecting single-trial evoked response potentials (ERPS)](https://ieeexplore.ieee.org/document/1384583) (via IEEEExplore) : Undergraduate Research Contribution
 * [Cryptographic One-Time Knocking](/assets/bh-us-04-worth-up.pdf) : for Blackhat Vegas '04
