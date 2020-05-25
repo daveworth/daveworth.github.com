@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* [The Venn Diagram of Observability](https://grafana.com/go/grafanaconline/strava-the-venn-diagram-of-observability/) : for GrafanCONline 2020 : 05.15.2020
 * [The Deep End Podcast Ep #13: From Prototype to Internet of Things with Muzzley](https://blog.digitalocean.com/deep-end-podcast-muzzley/) : a conversation with the founders of Muzzley following their startup story from origins and growth to today : 02.13.18
 * [Distributed Tracing Meets Kanye](https://soundcloud.com/digitaloceanpodcast/distributed-tracing-meets-kanye) : a great chat about operating software with Iheanyi Ekechukwu for DigitalOcean's Deep End Podcast : 07:19:2017
 * [Droplet Tagging: Organize Your Infrastructure](https://www.digitalocean.com/blog/droplet-tagging-organize-your-infrastructure/) : 10.26.2016
