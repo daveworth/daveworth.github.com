@@ -14,7 +14,7 @@ layout: default
 * [Wide Teams #68](http://www.wideteams.com/2013/01/30/episode-68-david-worth-of-big-nerd-ranch/) :  01.30.2013
 * [Creating View-Centric Interfaces with the Decorator Pattern](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) :  01.18.2013
 * [Leveraging Convention over Configuration for Static Analysis in Dynamic Languages](http://ensiwiki.ensimag.fr/images/7/70/GreHack-2012-talk-David_Worth_and_Justin_Collins-Leveraging_Convention_over_Configuration_for_Static_Analysis_in_Dynamic_Languages.pdf) ([Paper](http://ensiwiki.ensimag.fr/images/c/c5/GreHack-2012-Leveraging_Convention_over_Configuration_for_Static_Analysis_in_Dynamic_Languages.pdf) : [Video](http://www.youtube.com/watch?feature=player_embedded&v=tHUxZbNktxg)) : for [GreHack](http://grehack.org/en/)
-* [Decorators as Interfaces](http://daveworth.github.io/ArrrrCamp_2012-DecoratorsAsInterfaces) : [ArrrrCamp'12](http://2012.arrrrcamp.be/) Lightening Talk ([Video](http://vimeo.com/groups/arrrrcamp/videos/51898787) @ 18:15ish)
+* [Decorators as Interfaces](http://daveworth.github.io/ArrrrCamp_2012-DecoratorsAsInterfaces) : for ArrrrCamp'12 Lightning Talks
 * [Static Analysis of Ruby and Security Scanning of Rails Apps with Brakeman](http://daveworth.github.io/RubyHoedown_2012-StaticAnalysisAndSecurityAnalysisWithBrakeman) : for RubyHoedown 2012 and ArrrrCamp'12
 * [Static Analysis of Ruby](http://daveworth.github.io/ATLRUG_07_2012-StaticAnalysisRuby/) : for ATLRUG 09.2012
 * [Highgroove Tech Talk on Decorators](http://daveworth.github.io/5-25-2012-Highgroove-Tech-Talk---Decorators/) :  5.25.2012
