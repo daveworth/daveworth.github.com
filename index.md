@@ -19,7 +19,7 @@ layout: default
 * [Static Analysis of Ruby](http://daveworth.github.io/ATLRUG_07_2012-StaticAnalysisRuby/) : for ATLRUG 09.2012
 * [Highgroove Tech Talk on Decorators](http://daveworth.github.io/5-25-2012-Highgroove-Tech-Talk---Decorators/) :  5.25.2012 ([Video](http://vimeo.com/42860016))
 * [Reaching out to the community in pursuit of “Responsible Disclosure”](http://blog.bignerdranch.com/1702-creating-view-centric-interfaces-with-the-decorator-pattern/) : 07.27.2012
-* [Evolving a Security Auditing Methodology](http://blog.bignerdranch.com/1641-evolving-a-security-auditing-methodology/) : 06.11.2012
+* [Evolving a Security Auditing Methodology](https://www.bignerdranch.com/blog/evolving-a-security-auditing-methodology/) : 06.10.2012
 * [Brakeman - A Static Analysis Security Scanner for Rails Applications](http://daveworth.github.io/ATLRUG_04_2012-BrakemanPresentation/) : for ATLRUG 04.2012
 * [Cast aside that debugger and use your test-suite](https://www.bignerdranch.com/blog/cast-aside-that-debugger-and-use-your-test-suite/) : 04.09.2012
 * [Our Open-Source Methodology at Highgroove](https://www.bignerdranch.com/blog/our-open-source-methodology-at-highgroove/) : 02.22.2012
