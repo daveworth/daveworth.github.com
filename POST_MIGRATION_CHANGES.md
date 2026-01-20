@@ -13,28 +13,14 @@ Changes to make after the Astro migration is complete. These are intentional dev
 - What didn't work in practice
 - Lessons learned
 
-### Update date formatting and styling
+### ~~Update date formatting and styling~~ (DONE)
 
-**Locations:** 
-- `src/pages/index.astro` (post listing and "Other Blog Posts and Lists" section)
-- `src/layouts/PostLayout.astro` (individual post pages)
+### ~~Unify formatting between homepage sections~~ (DONE)
 
-**Changes:**
-1. Format all dates as `yyyy-mm-dd` (ISO 8601 format)
-2. Style dates to be visually distinct from surrounding content - consider:
-   - Monospace font
-   - Different color or background
-
-### Unify formatting between homepage sections
-
-**Location:** `src/pages/index.astro`
-
-**Issue:** The "Other Blog Posts and Lists" section has different formatting than the main "Blog Posts, Presentations, Slide Decks, Papers, and even videos!" section.
-
-**Changes:**
-1. Apply consistent styling to both sections
-2. Use the same date format (`yyyy-mm-dd`) in both sections
-3. Match link styles, spacing, and typography between sections
+Both sections now use:
+- Dates at start in `yyyy-mm-dd` format with smaller monospace font
+- Bold chevron separators instead of bullets
+- Consistent styling across both sections
 
 ---
 
