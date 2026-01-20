@@ -1,0 +1,99 @@
+name: Link Checker
+
+on:
+  # Nightly check of all links
+  schedule:
+    - cron: "0 6 * * *" # 6 AM UTC daily
+  # Check changed files in PRs
+  pull_request:
+    branches: [main]
+  # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  # Nightly: check all links in the built site
+  check-all-links:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - uses: volta-cli/action@5c175f92dea6f48441c436471e6479dbc192e194 # v4.2.1
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Check all links
+        id: lychee
+        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
+        with:
+          args: >-
+            --root-dir ${{ github.workspace }}/dist
+            --exclude-all-private
+            --exclude 'linkedin\.com'
+            --exclude 'slideshare\.net'
+            --no-progress
+            dist/
+          fail: false
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@e8ef132d6df98ed982188e460ebb3b5d4ef3a9cd # v5.0.1
+        with:
+          title: "Link Checker Report: Broken links found"
+          content-filepath: ./lychee/out.md
+          labels: automated, broken-links
+
+  # PR: check only links in changed files
+  check-pr-links:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed-files
+        uses: step-security/changed-files@60967b822d3001fa82242f8d6b4ed46bc3600a68 # v47.0.1
+        with:
+          files: |
+            src/**/*.astro
+            src/**/*.md
+            src/**/*.mdx
+            public/**/*.html
+
+      - name: Check links in changed files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        id: lychee
+        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
+        with:
+          args: >-
+            --exclude-all-private
+            --exclude 'linkedin\.com'
+            --exclude 'slideshare\.net'
+            --no-progress
+            ${{ steps.changed-files.outputs.all_changed_files }}
+          fail: true
+
+      - name: Post PR comment on failure
+        if: failure() && steps.lychee.outputs.exit_code != 0
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('./lychee/out.md', 'utf8');
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '## Link Checker Report\n\n' + body + '\n\n---\n*Please fix the broken links or add them to `.lycheeignore` if they are false positives.*'
+            });

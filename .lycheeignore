@@ -1,0 +1,13 @@
+# Lychee link checker ignore file
+# Add URLs or patterns that should be excluded from link checking
+# https://lychee.cli.rs/usage/config/
+
+# Sites that block automated requests or require authentication
+# (These are also excluded via --exclude in the workflow, but listed here for documentation)
+
+# LinkedIn blocks automated requests
+https://www.linkedin.com/*
+
+# SlideShare often has CAPTCHA or rate limiting
+https://www.slideshare.net/*
+http://www.slideshare.net/*

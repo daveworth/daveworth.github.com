@@ -39,6 +39,18 @@ public/
 - **Tailwind**: Mobile-first responsive design, use design tokens from config
 - **Commits**: Conventional commits format (`type(scope): description`)
 
+## GitHub Actions
+
+- **Pin to SHA**: Always pin actions to full SHA commit hashes, not version tags
+- **Version comments**: Include version in a comment for Renovate compatibility
+- **Stable only**: Only use stable releases, never pre-release versions
+- **Security**: Use `step-security/changed-files` instead of `tj-actions/changed-files`
+
+Example:
+```yaml
+- uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+```
+
 ## Content
 
 - 6 blog posts (2012-2015)
