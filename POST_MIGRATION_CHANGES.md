@@ -20,6 +20,18 @@ Changes to make after the Astro migration is complete. These are intentional dev
    - What didn't work in practice
    - Lessons learned
 
+### Update date formatting and styling
+
+**Locations:** 
+- `src/pages/index.astro` (post listing)
+- `src/layouts/PostLayout.astro` (individual post pages)
+
+**Changes:**
+1. Format all dates as `yyyy-mm-dd` (ISO 8601 format)
+2. Style dates to be visually distinct from surrounding content - consider:
+   - Monospace font
+   - Different color or background
+
 ---
 
 ## Repository Changes
