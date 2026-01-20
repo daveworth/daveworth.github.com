@@ -1,0 +1,29 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Dave Worth's STDOUT",
+  description
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="max-w-4xl mx-auto px-4 py-8 lg:flex lg:gap-8">
+    <aside class="lg:w-72 lg:flex-shrink-0 mb-8 lg:mb-0">
+      <div class="lg:fixed lg:w-72">
+        <Header />
+      </div>
+    </aside>
+    <main class="flex-1 max-w-xl">
+      <slot />
+      <Footer />
+    </main>
+  </div>
+</BaseLayout>
