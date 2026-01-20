@@ -41,5 +41,13 @@ Both sections now use:
 
 ## Future Improvements
 
-(Add items here as they come up during migration or testing)
+### Add nightly dead link checker GitHub Action
+
+**Goal:** Create a GitHub Action that runs nightly to check for dead/broken links across the site.
+
+**Considerations:**
+- Check both internal and external links
+- Run on a schedule (nightly)
+- Create an issue or send notification when broken links are found
+- Consider using a tool like `lychee` or `linkinator`
 
