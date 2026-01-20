@@ -15,13 +15,13 @@ const {
 ---
 
 <BaseLayout title={title} description={description}>
-  <div class="max-w-4xl mx-auto px-4 py-8 lg:flex lg:gap-8">
-    <aside class="lg:w-72 lg:flex-shrink-0 mb-8 lg:mb-0">
-      <div class="lg:fixed lg:w-72">
+  <div class="max-w-4xl mx-auto px-4 py-6 sm:py-8 lg:flex lg:gap-8">
+    <aside class="lg:w-72 lg:flex-shrink-0 mb-6 sm:mb-8 lg:mb-0">
+      <div class="lg:fixed lg:w-72 lg:pr-4">
         <Header />
       </div>
     </aside>
-    <main class="flex-1 max-w-xl">
+    <main class="flex-1 max-w-full sm:max-w-xl lg:max-w-xl">
       <slot />
       <Footer />
     </main>
