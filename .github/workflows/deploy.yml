@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    # TODO: remove feat/astro-migration after migration complete
+    branches: [master, feat/astro-migration]
   workflow_dispatch:
 
 permissions:
