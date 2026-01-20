@@ -5,7 +5,7 @@
   "private": true,
   "description": "Personal website for Dave Worth - dave.coffee",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --host",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "lint": "astro check"
