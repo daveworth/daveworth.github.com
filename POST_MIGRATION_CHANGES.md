@@ -28,14 +28,9 @@ Both sections now use:
 
 ### ~~Rename default branch from `master` to `main`~~ (DONE)
 
-### Review and resolve Dependabot security alerts
+### ~~Review and resolve Dependabot security alerts~~ (DONE)
 
-**Location:** https://github.com/daveworth/daveworth.github.com/security/dependabot
-
-**Action:**
-1. Review any remaining security vulnerabilities flagged by Dependabot
-2. Dismiss alerts related to removed Jekyll dependencies (no longer applicable)
-3. Address any new vulnerabilities in the Astro/Node.js dependencies if present
+Alerts cleared after migration from Jekyll to Astro - old Ruby dependencies removed.
 
 ---
 
