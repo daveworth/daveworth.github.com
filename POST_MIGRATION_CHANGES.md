@@ -36,13 +36,11 @@ Alerts cleared after migration from Jekyll to Astro - old Ruby dependencies remo
 
 ## Future Improvements
 
-### Add nightly dead link checker GitHub Action
+### ~~Add nightly dead link checker GitHub Action~~ (DONE)
 
-**Goal:** Create a GitHub Action that runs nightly to check for dead/broken links across the site.
-
-**Considerations:**
-- Check both internal and external links
-- Run on a schedule (nightly)
-- Create an issue or send notification when broken links are found
-- Consider using a tool like `lychee` or `linkinator`
+Implemented using `lychee-action`:
+- Nightly scheduled check of all links in built site
+- PR-based check of changed files only using `step-security/changed-files`
+- Creates GitHub issue on failure (nightly) or PR comment (PRs)
+- All actions pinned to SHA with version comments for Renovate
 
