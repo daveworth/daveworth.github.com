@@ -56,6 +56,15 @@ Changes to make after the Astro migration is complete. These are intentional dev
 4. Delete old remote branch: `git push origin --delete master`
 5. Update `.github/workflows/deploy.yml` to use `main` instead of `master`
 
+### Review and resolve Dependabot security alerts
+
+**Location:** https://github.com/daveworth/daveworth.github.com/security/dependabot
+
+**Action:**
+1. Review any remaining security vulnerabilities flagged by Dependabot
+2. Dismiss alerts related to removed Jekyll dependencies (no longer applicable)
+3. Address any new vulnerabilities in the Astro/Node.js dependencies if present
+
 ---
 
 ## Future Improvements
