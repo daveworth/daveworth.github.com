@@ -2,19 +2,7 @@
 
 Personal website for Dave Worth, hosted at https://dave.coffee
 
-## Project Status
-
-**Migration in progress**: Jekyll → Astro + Tailwind CSS
-See `MIGRATION_PLAN.md` for detailed implementation plan and commit strategy.
-
 ## Tech Stack
-
-### Current (Jekyll - being replaced)
-- Jekyll 3.6.3 with Kramdown markdown
-- Static CSS with Pygments syntax highlighting
-- GitHub Pages deployment
-
-### Target (Astro)
 - Astro 5.x with TypeScript strict mode
 - Tailwind CSS 4.x with Typography plugin
 - Volta for Node.js/npm version management
@@ -23,20 +11,15 @@ See `MIGRATION_PLAN.md` for detailed implementation plan and commit strategy.
 ## Commands
 
 ```bash
-# Development (after migration)
 npm run dev          # Start dev server
 npm run build        # Build for production
 npm run preview      # Preview production build
 npm run lint         # TypeScript checking
 npm run new-post     # Create new blog post
-
-# Current Jekyll (until migration complete)
-bundle exec jekyll serve
 ```
 
 ## Project Structure
 
-### Target Astro Structure
 ```
 src/
 ├── components/      # Astro components (Header, Footer, etc.)
@@ -47,15 +30,6 @@ src/
 public/
 ├── assets/          # Static files (PDFs, images)
 └── CNAME            # Custom domain
-```
-
-### Current Jekyll Structure (to be removed)
-```
-_layouts/            # Jekyll templates
-_includes/           # Reusable partials
-_posts/              # Blog posts (6 total)
-stylesheets/         # CSS files
-assets/              # Static files
 ```
 
 ## Code Style
@@ -89,9 +63,8 @@ Layout:
 
 ## Git Workflow
 
-- Feature branch: `feat/astro-migration`
+- Default branch: `main`
 - Atomic commits with conventional commit messages
-- Test before merging to `master`
 
 ## Important Notes
 
