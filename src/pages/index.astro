@@ -8,10 +8,10 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDa
 
 <DefaultLayout>
   <section>
-    <h2 class="text-xl font-bold text-site-heading-secondary mb-4">
+    <h2 class="text-lg sm:text-xl font-bold text-site-heading-secondary mb-3 sm:mb-4">
       Blog Posts, Presentations, Slide Decks, Papers, and even videos!
     </h2>
-    <ul class="space-y-2 list-disc list-inside">
+    <ul class="space-y-1.5 sm:space-y-2 list-disc list-inside text-sm sm:text-base">
       <li><a href="https://grafana.com/go/grafanaconline/strava-the-venn-diagram-of-observability/" class="text-site-link hover:underline">The Venn Diagram of Observability</a> : for GrafanaCONline 2020 : 05.15.2020</li>
       <li><a href="https://blog.digitalocean.com/deep-end-podcast-muzzley/" class="text-site-link hover:underline">The Deep End Podcast Ep #13: From Prototype to Internet of Things with Muzzley</a> : a conversation with the founders of Muzzley following their startup story from origins and growth to today : 02.13.18</li>
       <li><a href="https://shows.acast.com/digitalocean-deep-end-podcast/episodes/5c479e6a3e349cc052abbf75" class="text-site-link hover:underline">Distributed Tracing Meets Kanye</a> : a great chat about operating software with Iheanyi Ekechukwu for DigitalOcean's Deep End Podcast : 07.19.2017</li>
@@ -42,14 +42,14 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDa
     </ul>
   </section>
 
-  <section class="mt-8">
-    <h2 class="text-xl font-bold text-site-heading-secondary mb-4">
+  <section class="mt-6 sm:mt-8">
+    <h2 class="text-lg sm:text-xl font-bold text-site-heading-secondary mb-3 sm:mb-4">
       Other Blog Posts and Lists
     </h2>
-    <ul class="space-y-2">
+    <ul class="space-y-1.5 sm:space-y-2">
       {sortedPosts.map((post) => (
-        <li>
-          <span class="text-gray-500 text-sm">
+        <li class="text-sm sm:text-base">
+          <span class="text-gray-500 text-xs sm:text-sm">
             {post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
           </span>
           {' '}&raquo;{' '}
