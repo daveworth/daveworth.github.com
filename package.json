@@ -1,0 +1,10 @@
+{
+  "name": "dave-coffee",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Personal website for Dave Worth - dave.coffee",
+  "volta": {
+    "node": "22.22.0"
+  }
+}
