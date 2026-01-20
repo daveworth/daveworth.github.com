@@ -1,0 +1,26 @@
+---
+import GitHubProfileLink from './GitHubProfileLink.astro';
+
+interface Props {
+  showHeadshot?: boolean;
+}
+
+const { showHeadshot = true } = Astro.props;
+---
+
+<header class="text-center lg:text-left">
+  {showHeadshot && (
+    <img
+      src="/assets/pic.jpg"
+      alt="My Smiling Face"
+      class="w-32 h-32 rounded-full mx-auto lg:mx-0 mb-4"
+    />
+  )}
+  <h1 class="text-2xl font-bold text-site-heading">Dave Worth's STDOUT</h1>
+  <p class="text-sm mt-2">
+    the landing place of my various presentations, papers, and occasional blog posts
+  </p>
+  <div class="mt-4">
+    <GitHubProfileLink />
+  </div>
+</header>
