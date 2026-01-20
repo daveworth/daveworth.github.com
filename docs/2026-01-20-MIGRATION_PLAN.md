@@ -1,5 +1,7 @@
 # Jekyll to Astro Migration Plan
 
+**Status:** Completed on 2026-01-20
+
 ## Overview
 
 This document outlines the plan to migrate dave.coffee from Jekyll to Astro with Tailwind CSS, using Volta for JavaScript/TypeScript tooling management.
